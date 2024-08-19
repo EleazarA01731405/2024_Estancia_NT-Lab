@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1723768890.18117 "c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex" "build/protocolo_invertigacion.pdf" "protocolo_invertigacion" 1723768890.55412 0
+["pdflatex"] 1724085698.29883 "c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex" "build/protocolo_invertigacion.pdf" "protocolo_invertigacion" 1724085698.65959 0
   "C:/Users/eli-o/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1723766326 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/eli-o/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1724085384 14064 263ac4b0fce0787fb60ac0e83f6138c8 ""
   "C:/Users/eli-o/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1723763496 24225046 4d873a1d5605bb728c30235134ec44be ""
+  "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -30,9 +32,9 @@
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1700599895 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
-  "build/protocolo_invertigacion.aux" 1723768890 1582 609b278aa19998472d19c801d5709a3d "pdflatex"
-  "c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex" 1723768889 3000 b0e5322021eca7398475fb41fe38dcb8 ""
-  "protocolo_invertigacion.tex" 1723768889 3000 b0e5322021eca7398475fb41fe38dcb8 ""
+  "build/protocolo_invertigacion.aux" 1724085698 1932 e5cd1885b8061f5cfeb96978f839fc29 "pdflatex"
+  "c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex" 1724085697 5692 7605cc890549327b405ea5984e5ddb6c ""
+  "protocolo_invertigacion.tex" 1724085697 5692 7605cc890549327b405ea5984e5ddb6c ""
   "recursos_img/tec_header_logo.png" 1723758011 8719 afe0a586a4e70454f1cc2a8a6c2efa64 ""
   (generated)
   "build/protocolo_invertigacion.aux"

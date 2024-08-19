@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.15)  15 AUG 2024 18:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.15)  19 AUG 2024 10:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -121,33 +121,47 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <recursos_img/tec_header_logo.png, id=1, 438.63875pt x 115.43124pt>
 File: recursos_img/tec_header_logo.png Graphic file (type png)
 <use recursos_img/tec_header_logo.png>
-Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 78.
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 81.
 (pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
  [1{C:/Users/eli-o/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./recursos_img/tec_header_logo.png>]
 File: recursos_img/tec_header_logo.png Graphic file (type png)
 <use recursos_img/tec_header_logo.png>
-Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 86.
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 101.
 (pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
- [2] (c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.aux)
+ [2]
+Overfull \hbox (0.48344pt too wide) in paragraph at lines 105--106
+[]\OT1/cmr/m/n/12 Mantener fun-ciones cog-ni-ti-vas rela-cionadas con la atenci^^Son, ori-entaci^^Son,
+ []
+
+
+Overfull \hbox (1.07094pt too wide) in paragraph at lines 106--107
+[]\OT1/cmr/m/n/12 No pre-sen-tar trastornos mus-cu-loesquel^^Seticos que imp-i-dan el movimiento
+ []
+
+File: recursos_img/tec_header_logo.png Graphic file (type png)
+<use recursos_img/tec_header_logo.png>
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 124.
+(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
+[3] (c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1852 strings out of 474486
- 30913 string characters out of 5743755
- 1934542 words of memory out of 5000000
- 24163 multiletter control sequences out of 15000+600000
- 561718 words of font info for 48 fonts, out of 8000000 for 9000
+ 1862 strings out of 474486
+ 31093 string characters out of 5743755
+ 1937542 words of memory out of 5000000
+ 24172 multiletter control sequences out of 15000+600000
+ 562660 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,15n,65p,382b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.pdf (2 pages, 48421 bytes).
+ 57i,15n,65p,869b,360s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\eli-o\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.pdf (3 pages, 53977 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
