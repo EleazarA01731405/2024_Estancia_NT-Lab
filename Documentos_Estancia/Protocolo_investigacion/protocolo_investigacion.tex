@@ -5,6 +5,7 @@
 \usepackage{array}     % Package for more flexible table columns
 \usepackage{titlesec}  % Package for customizing section titles
 \usepackage{geometry}  % Package for page margins
+\usepackage{float}     % Package to force float placement
 
 % Configure page margins
 \geometry{
@@ -36,7 +37,7 @@
 
 \section{Investigador principal}
 
-\begin{table}[h!]
+\begin{table}[H]
     \centering
     \begin{tabular}{|c|p{7cm}|} \hline
         Nombre & Javier Mauricio Antelis Ortíz \\ \hline
@@ -50,7 +51,7 @@
     \end{tabular}
 \end{table}
 
-\begin{table}[h!]
+\begin{table}[H]
     \centering
     \begin{tabular}{|c|p{7cm}|} \hline
         Nombre & Omar Mendoza Montoya \\ \hline
@@ -66,7 +67,7 @@
 
 \section{Investigadores asociados}
 
-\begin{table}[h!]
+\begin{table}[H]
     \centering
     \begin{tabular}{|c|c|} \hline
         Eleazar Olivas Gaspar & A01731405@tec.mx \\ \hline
@@ -80,7 +81,7 @@
 
 \section{Duración del protocolo}
 
-\begin{table}[h!]
+\begin{table}[H]
     \centering
     \begin{tabular}{|c|c|} \hline
         Inicio & 5 de Agosto de 2024 \\ \hline
@@ -95,55 +96,24 @@ Experimental y aplicativa.
 Neurociencias, Tecnologías de la Computación, Robótica.
 
 \section{Lugar de la investigación}
-Laboratorio de Neurotecnología e Interfaces Cerebro-Computador (NTLab), Edificio
- del Ecosistema de Ingeniería, Arquitectura y Diseño (EIAD), 
- Tecnológico de Monterrey, Guadalajara.
+Laboratorio de Neurotecnología e Interfaces Cerebro-Computador (NTLab), Edificio del Ecosistema de Ingeniería, Arquitectura y Diseño (EIAD), Tecnológico de Monterrey, Guadalajara.
 
 \section{Resumen}
 
 \subsection{Introducción y Justificación}
-La electroencefalografía (EEG) es una técnica no invasiva ampliamente 
-utilizada para registrar la actividad eléctrica del cerebro. 
-Esta tecnología ha permitido avances significativos en la creación 
-de interfaces cerebro-computadora (BCI), que utilizan señales cerebrales para 
-controlar dispositivos externos. Uno de los enfoques emergentes es la integración 
-de BCI con otras tecnologías, como sistemas de seguimiento ocular (eye tracking), 
-para crear interfaces híbridas que ofrecen nuevas posibilidades en la interacción 
-humano-robot.
+La electroencefalografía (EEG) es una técnica no invasiva ampliamente utilizada para registrar la actividad eléctrica del cerebro. Esta tecnología ha permitido avances significativos en la creación de interfaces cerebro-computadora (BCI), que utilizan señales cerebrales para controlar dispositivos externos. Uno de los enfoques emergentes es la integración de BCI con otras tecnologías, como sistemas de seguimiento ocular (eye tracking), para crear interfaces híbridas que ofrecen nuevas posibilidades en la interacción humano-robot.
 
 \subsection{Objetivo de la Investigación}
-Este protocolo de investigación tiene como objetivo desarrollar y evaluar dos 
-tipos de interfaces híbridas para el control de brazos robóticos (Dobots) en un 
-entorno de competencia. En el primer experimento, se combinará un sistema de eye 
-tracking con la detección de potenciales relacionados a errores (ErrP) obtenidos 
-por EEG para controlar un brazo robótico en tareas de escritura y dibujo. 
-En el segundo experimento, se compararán los tiempos de respuesta y la eficiencia 
-entre una BCI basada en P300 y un sistema de eye tracking en la tarea de controlar 
-dos Dobots jugando tic-tac-toe. Un brazo robótico será controlado por la BCI, 
-mientras que el otro será gestionado mediante el eye tracker.
+Este protocolo de investigación tiene como objetivo desarrollar y evaluar dos tipos de interfaces híbridas para el control de brazos robóticos (Dobots) en un entorno de competencia. En el primer experimento, se combinará un sistema de eye tracking con la detección de potenciales relacionados a errores (ErrP) obtenidos por EEG para controlar un brazo robótico en tareas de escritura y dibujo. En el segundo experimento, se compararán los tiempos de respuesta y la eficiencia entre una BCI basada en P300 y un sistema de eye tracking en la tarea de controlar dos Dobots jugando tic-tac-toe. Un brazo robótico será controlado por la BCI, mientras que el otro será gestionado mediante el eye tracker.
 
 \subsection{Metodología}
-Los participantes, todos mayores de edad, serán seleccionados para utilizar 
-estas tecnologías en el control de los Dobots. Se registrarán tanto las señales 
-EEG como los datos de seguimiento ocular durante las tareas. El desempeño de los 
-sistemas se evaluará en términos de precisión, tiempo de respuesta y eficiencia en 
-la ejecución de las tareas asignadas.
+Los participantes, todos mayores de edad, serán seleccionados para utilizar estas tecnologías en el control de los Dobots. Se registrarán tanto las señales EEG como los datos de seguimiento ocular durante las tareas. El desempeño de los sistemas se evaluará en términos de precisión, tiempo de respuesta y eficiencia en la ejecución de las tareas asignadas.
 
 \subsection{Impacto y Aplicaciones Futuras}
-Los resultados de este estudio proporcionarán una visión clara sobre la viabilidad 
-y eficacia de las interfaces híbridas en el control de dispositivos robóticos. 
-Este conocimiento es crucial para el desarrollo de soluciones tecnológicas que 
-pueden restaurar la autonomía de individuos con discapacidades motoras, abriendo 
-nuevas posibilidades para aplicaciones en rehabilitación y asistencia robótica. 
-Además, este proyecto sentará las bases para futuras investigaciones y desarrollos 
-en el campo de las interfaces cerebro-computadora y su integración con tecnologías 
-de seguimiento ocular.
+Los resultados de este estudio proporcionarán una visión clara sobre la viabilidad y eficacia de las interfaces híbridas en el control de dispositivos robóticos. Este conocimiento es crucial para el desarrollo de soluciones tecnológicas que pueden restaurar la autonomía de individuos con discapacidades motoras, abriendo nuevas posibilidades para aplicaciones en rehabilitación y asistencia robótica. Además, este proyecto sentará las bases para futuras investigaciones y desarrollos en el campo de las interfaces cerebro-computadora y su integración con tecnologías de seguimiento ocular.
 
 \section{Objetivo}
-El objetivo principal de este estudio es desarrollar y evaluar la eficacia de 
-interfaces híbridas para el control de brazos robóticos utilizando tecnologías de 
-seguimiento ocular y electroencefalografía (EEG). Específicamente, el estudio se 
-centrará en los siguientes objetivos:
+El objetivo principal de este estudio es desarrollar y evaluar la eficacia de interfaces híbridas para el control de brazos robóticos utilizando tecnologías de seguimiento ocular y electroencefalografía (EEG). Específicamente, el estudio se centrará en los siguientes objetivos:
 
 \begin{itemize}
     \item \textbf{Desarrollar un sistema híbrido de control}: Integrar un sistema de eye tracking con la detección de potenciales relacionados a errores (ErrP) obtenidos a partir de señales EEG para controlar un brazo robótico en tareas de escritura y dibujo.
@@ -152,104 +122,84 @@ centrará en los siguientes objetivos:
     \item \textbf{Explorar aplicaciones futuras}: Identificar posibles aplicaciones y mejoras de las interfaces híbridas en el contexto de rehabilitación robótica y asistencia tecnológica, así como su potencial impacto en la restauración de la autonomía en individuos con discapacidades motoras.
 \end{itemize}
 
-Estos objetivos buscan proporcionar una comprensión detallada de la viabilidad y 
-las ventajas de integrar tecnologías de seguimiento ocular y EEG para el control 
-de dispositivos robóticos, lo cual podría representar un avance significativo en 
-la interacción humano-robot y en el desarrollo de soluciones tecnológicas para la 
-asistencia en la vida diaria.
+Estos objetivos buscan proporcionar una comprensión detallada de la viabilidad y las ventajas de integrar tecnologías de seguimiento ocular y EEG para el control de dispositivos robóticos, lo cual podría representar un avance significativo en la interacción humano-robot y en el desarrollo de soluciones tecnológicas para la asistencia en la vida diaria.
 
 \section{Hipótesis}
-En el presente estudio, se propone la integración de una interfaz 
-cerebro-computadora (BCI) para el control de dos brazos robóticos. Se evaluará si 
-el uso de un BCI basado en el paradigma P300 puede proporcionar un control más 
-rápido y eficiente en comparación con el seguimiento ocular a través de eye 
-trackers. Dado que ambos métodos permiten la interacción con los brazos robóticos, 
-se espera que el BCI basado en P300 ofrezca un tiempo de respuesta inferior, 
-debido a su capacidad de captar directamente las señales neuronales relacionadas 
-con la intención de movimiento, en contraposición al seguimiento ocular, que 
-depende de movimientos físicos y tiempo de procesamiento adicional.
+En el presente estudio, se propone la integración de una interfaz cerebro-computadora (BCI) para el control de dos brazos robóticos. Se evaluará si el uso de un BCI basado en el paradigma P300 puede proporcionar un control más rápido y eficiente en comparación con el seguimiento ocular a través de eye trackers. Dado que ambos métodos permiten la interacción con los brazos robóticos, se espera que el BCI basado en P300 ofrezca un tiempo de respuesta inferior, debido a su capacidad de captar directamente las señales neuronales relacionadas con la intención de movimiento, en contraposición al seguimiento ocular, que depende de movimientos físicos y tiempo de procesamiento adicional.
 
 \section{Participantes}
 
-\subsection{Tamaño de la muestra}
-Para el protocolo de investigación se reclutarán 30 adultos que cumplan con los 
-criterios de inclusión.
-
-\subsection{Criterios de inclusión}
-\begin{itemize}
-    \item Ser mayor de edad.
-    \item Género y sexo indistintos.
-    \item Mantener funciones cognitivas relacionadas con la atención, orientación, y memoria.
-    \item No presentar trastornos musculoesqueléticos que impidan el movimiento normal.
-    \item Consentimiento informado para participar en el estudio.
-\end{itemize}
-
-\subsection{Criterios de exclusión}
-\begin{itemize}
-    \item Diagnóstico de enfermedades neurodegenerativas.
-    \item Diagnóstico de alteraciones severas en la atención.
-    \item Antecedentes de traumatismo craneoencefálico.
-    \item Lesiones de nervio periférico, enfermedad vascular cerebral.
-    \item Contracturas que limiten la movilidad.
-    \item Condiciones que puedan introducir datos con alto nivel de ruido.
-\end{itemize}
+\subsection{Criterios de inclusión y exclusión}
+Los participantes en este estudio deben ser adultos de edad legal, con pleno uso de sus capacidades físicas y mentales. Se excluyen individuos con antecedentes de enfermedades neurodegenerativas o que presenten condiciones que puedan introducir ruido en los datos EEG, como el Parkinson o la epilepsia.
 
 \section{Material y equipo}
 El equipo necesario para la investigación incluye:
+
 \begin{itemize}
     \item Dispositivos de EEG para la captura de señales cerebrales.
     \item Sistemas de seguimiento ocular (eye trackers) para registrar movimientos oculares.
-    \item Dos brazos robóticos Dobots para las tareas experimentales.
+    \item tres brazos robóticos Dobots para las tareas experimentales.
     \item Computadoras con software de análisis de datos y control de robots.
     \item Espacio adecuado para la instalación de los equipos y realización de los experimentos.
 \end{itemize}
 
-\begin{figure}[h!]
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.4\textwidth]{recursos_img/tobii_fusion_pro.jpg}  % Ajusta la ruta y el ancho según sea necesario
-    \caption{Tobii fusion pro eye tracker.}
-    \label{fig:mi_imagen}  % Etiqueta para referencias cruzadas en el documento
+    \includegraphics[width=0.5\textwidth]{recursos_img/g_tec_amplifier.jpg}
+    \caption{Amplificador G-Tec para la obtención de señales EEG.}
+    \label{fig:amplifier}
 \end{figure}
 
-\begin{figure}[h!]
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.4\textwidth]{recursos_img/dobot_magician.jpg}  % Ajusta la ruta y el ancho según sea necesario
-    \caption{Brazo robotico Dobot magician.}
-    \label{fig:mi_imagen}  % Etiqueta para referencias cruzadas en el documento
+    \includegraphics[width=0.5\textwidth]{recursos_img/g_tec_EEG_cap.jpg}
+    \caption{G-Tec gorro GAMMA para colocación de electrodos.}
+    \label{fig:eeg_cap}
 \end{figure}
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{recursos_img/g_tec_ladybird.jpg}
+    \caption{G-Tec electrodos Ladybird para la obtención de señales EEG.}
+    \label{fig:ladybird}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{recursos_img/tobii_fusion_pro.jpg}
+    \caption{Tobii Fusion Pro eye tracker.}
+    \label{fig:tobii}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{recursos_img/dobot_magician.jpg}
+    \caption{Brazo robótico Dobot Magician.}
+    \label{fig:dobot}
+\end{figure}
+
+\newpage
 \section{Descripción del procedimiento experimental}
-Durante el experimento, los participantes serán instruidos sobre el uso de los 
-sistemas de eye tracking y BCI. Se realizarán pruebas en las que deberán controlar 
-los brazos robóticos para realizar tareas específicas, como escribir, dibujar o 
-jugar tic-tac-toe. Se registrarán las señales EEG y los datos de seguimiento 
-ocular, y se evaluará la precisión, tiempo de respuesta y eficiencia de ambos 
-métodos.
+Durante el experimento, los participantes serán instruidos sobre el uso de los sistemas de eye tracking y BCI. Se realizarán pruebas en las que deberán controlar los brazos robóticos para realizar tareas específicas, como escribir, dibujar o jugar tic-tac-toe. Se registrarán las señales EEG y los datos de seguimiento ocular, y se evaluará la precisión, tiempo de respuesta y eficiencia de ambos métodos.
 
 \subsection{Preparación del equipo}
-Previo a la realización del experimento se deberá hacer la preparación 
-adecuada del equipo que se estará usando durante el mismo.
+Previo a la realización del experimento se deberá hacer la preparación adecuada del equipo que se estará usando durante el mismo.
 
-\begin{figure}[h!]
+\begin{figure}[H]
     \centering
-    \includegraphics[width=0.4\textwidth]{recursos_img/configuracion_diagrama_10_20.png}  % Ajusta la ruta y el ancho según sea necesario
+    \includegraphics[width=0.4\textwidth]{recursos_img/configuracion_diagrama_10_20.png}
     \caption{Configuración 10/20 para colocación de electrodos.}
-    \label{fig:mi_imagen}  % Etiqueta para referencias cruzadas en el documento
+    \label{fig:configuracion}
 \end{figure}
-Para al colocación de electrodos a la hora de llevar acababo la ejecución del 
-experimento se deberá de elegir una configuaración específica dentro de  la 
-configuración 10/20 por lo que se debrán de colocar 8 electrodos dentro de las 32 
-posibles ubicaciones mostradas en la figura anterior.
+
+Para la colocación de electrodos a la hora de llevar a cabo la ejecución del experimento se deberá de elegir una configuración específica dentro de la configuración 10/20, por lo que se deberán de colocar 8 electrodos dentro de las 32 posibles ubicaciones mostradas en la figura anterior.
 
 \section{Aspectos Éticos y de Bioseguridad}
-El estudio será realizado siguiendo los principios éticos de investigación, 
-incluyendo el consentimiento informado de los participantes y la protección de su 
-privacidad. Se tomarán medidas para asegurar que los datos recolectados sean 
-confidenciales y se almacenarán de manera segura. Además, se garantizará que el 
-uso de los equipos no suponga ningún riesgo para la salud de los participantes.
+El estudio será realizado siguiendo los principios éticos de investigación, incluyendo el consentimiento informado de los participantes y la protección de su privacidad. Se tomarán medidas para asegurar que los datos recolectados sean confidenciales y se almacenarán de manera segura. Además, se garantizará que el uso de los equipos no suponga ningún riesgo para la salud de los participantes.
 
 \section{Documentos complementarios}
 Se adjuntarán los siguientes documentos complementarios:
+
 \begin{itemize}
     \item Consentimiento informado.
     \item Protocolos de seguridad.
