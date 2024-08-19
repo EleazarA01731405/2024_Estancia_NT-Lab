@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1724088112.62262 "c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex" "build/protocolo_invertigacion.pdf" "protocolo_invertigacion" 1724088113.08395 0
+["pdflatex"] 1724095129.58851 "c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex" "build/protocolo_invertigacion.pdf" "protocolo_invertigacion" 1724095130.11773 0
   "C:/Users/eli-o/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1724087289 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/eli-o/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1724085384 14064 263ac4b0fce0787fb60ac0e83f6138c8 ""
   "C:/Users/eli-o/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1723763496 24225046 4d873a1d5605bb728c30235134ec44be ""
@@ -36,9 +36,10 @@
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1699094857 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "C:/Users/eli-o/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1700599895 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
-  "build/protocolo_invertigacion.aux" 1724088113 2392 fa0916406b19dedc87768ec7085f08c3 "pdflatex"
-  "c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex" 1724088111 11570 51effda3b8d4d386c0220c6d7d5ee60a ""
-  "protocolo_invertigacion.tex" 1724088111 11570 51effda3b8d4d386c0220c6d7d5ee60a ""
+  "build/protocolo_invertigacion.aux" 1724095130 2726 c48972c09bf28e745fd6e32a8533bb7a "pdflatex"
+  "c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex" 1724095129 12495 f5d546c6cfd5f6a23bb6693ff8525bbd ""
+  "protocolo_invertigacion.tex" 1724095129 12495 f5d546c6cfd5f6a23bb6693ff8525bbd ""
+  "recursos_img/configuracion_diagrama_10_20.png" 1724092938 21545 ec6551300a60c1736e5d34c587592f49 ""
   "recursos_img/tec_header_logo.png" 1723758011 8719 afe0a586a4e70454f1cc2a8a6c2efa64 ""
   (generated)
   "build/protocolo_invertigacion.aux"
