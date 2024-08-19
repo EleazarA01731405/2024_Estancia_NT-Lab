@@ -1,0 +1,252 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.15)  19 AUG 2024 14:06
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex
+(c:/Users/eli-o/Documents/Tec/2024_Ago_Dic/Estancia_Investigacion_NT_lab_2024/2024_Estancia_NT-Lab/Documentos_Estancia/protocolo_invertigacion.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip50
+\f@nch@O@elh=\skip51
+\f@nch@O@erh=\skip52
+\f@nch@O@olh=\skip53
+\f@nch@O@orh=\skip54
+\f@nch@O@elf=\skip55
+\f@nch@O@erf=\skip56
+\f@nch@O@olf=\skip57
+\f@nch@O@orf=\skip58
+) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box51
+\extrarowheight=\dimen144
+\NC@list=\toks18
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box52
+) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen145
+\ttl@minus=\dimen146
+\ttl@toksa=\toks19
+\titlewidth=\dimen147
+\titlewidthlast=\dimen148
+\titlewidthfirst=\dimen149
+) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks20
+ (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box54
+) (c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.aux
+
+LaTeX Warning: Label `fig:mi_imagen' multiply defined.
+
+
+LaTeX Warning: Label `fig:mi_imagen' multiply defined.
+
+)
+\openout1 = `protocolo_invertigacion.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+ (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count199
+\scratchdimen=\dimen158
+\scratchbox=\box55
+\nofMPsegments=\count266
+\nofMParguments=\count267
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count268
+\MPscratchDim=\dimen159
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
+\everyMPtoPDFconversion=\toks22
+) (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\eli-o\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-36.135pt
+* \headheight=60.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 41.
+<recursos_img/tec_header_logo.png, id=1, 438.63875pt x 115.43124pt>
+File: recursos_img/tec_header_logo.png Graphic file (type png)
+<use recursos_img/tec_header_logo.png>
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 89.
+(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
+[1{C:/Users/eli-o/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+ <./recursos_img/tec_header_logo.png>]
+File: recursos_img/tec_header_logo.png Graphic file (type png)
+<use recursos_img/tec_header_logo.png>
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 131.
+(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
+ [2]
+File: recursos_img/tec_header_logo.png Graphic file (type png)
+<use recursos_img/tec_header_logo.png>
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 171.
+(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
+ [3]
+File: recursos_img/tec_header_logo.png Graphic file (type png)
+<use recursos_img/tec_header_logo.png>
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 201.
+(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
+ [4]
+<recursos_img/tobii_fusion_pro.jpg, id=19, 722.7pt x 339.9099pt>
+File: recursos_img/tobii_fusion_pro.jpg Graphic file (type jpg)
+<use recursos_img/tobii_fusion_pro.jpg>
+Package pdftex.def Info: recursos_img/tobii_fusion_pro.jpg  used on input line 209.
+(pdftex.def)             Requested size: 187.89914pt x 88.37448pt.
+<recursos_img/dobot_magician.jpg, id=20, 1027.84pt x 907.39pt>
+File: recursos_img/dobot_magician.jpg Graphic file (type jpg)
+<use recursos_img/dobot_magician.jpg>
+Package pdftex.def Info: recursos_img/dobot_magician.jpg  used on input line 216.
+(pdftex.def)             Requested size: 187.89914pt x 165.87074pt.
+<recursos_img/configuracion_diagrama_10_20.png, id=21, 716.6775pt x 805.0075pt>
+File: recursos_img/configuracion_diagrama_10_20.png Graphic file (type png)
+<use recursos_img/configuracion_diagrama_10_20.png>
+Package pdftex.def Info: recursos_img/configuracion_diagrama_10_20.png  used on input line 235.
+(pdftex.def)             Requested size: 187.89914pt x 211.05354pt.
+File: recursos_img/tec_header_logo.png Graphic file (type png)
+<use recursos_img/tec_header_logo.png>
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 238.
+(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
+ [5 <./recursos_img/tobii_fusion_pro.jpg> <./recursos_img/dobot_magician.jpg>]
+File: recursos_img/tec_header_logo.png Graphic file (type png)
+<use recursos_img/tec_header_logo.png>
+Package pdftex.def Info: recursos_img/tec_header_logo.png  used on input line 260.
+(pdftex.def)             Requested size: 162.18001pt x 42.67912pt.
+ [6 <./recursos_img/configuracion_diagrama_10_20.png>] (c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2446 strings out of 474486
+ 40807 string characters out of 5743755
+ 1937542 words of memory out of 5000000
+ 24743 multiletter control sequences out of 15000+600000
+ 562660 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,15n,65p,478b,396s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\eli-o\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/eli-o/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on c:\Users\eli-o\Documents\Tec\2024_Ago_Dic\Estancia_Investigacion_NT_lab_2024\2024_Estancia_NT-Lab\Documentos_Estancia\build\protocolo_invertigacion.pdf (6 pages, 281881 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
